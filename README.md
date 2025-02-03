@@ -12,8 +12,8 @@ EstadoSemAcento → Nome do estado sem acentos (útil para buscas e filtros).<br
 Regiao → Região correspondente (Norte, Nordeste, Centro-Oeste, Sudeste, Sul).<br>
 
 **Como Usar**<br>
-1. Copie o código do arquivo EstadosBrasil.pq.<br>
-2. No Power BI, vá para Transformar Dados (Power Query Editor).<br>
+1. Copie o código do arquivo EstadosBrasil.m.<br>
+2. No Power BI, vá para Transformar Dados.<br>
 3. Crie uma Nova Consulta → Consulta em Branco.<br>
 4. Cole o código e execute a consulta.<br>
 5. Recomendo renomaer a consulta para ***d_Estados***. Utilize os dados no Power BI para criar visualizações e relatórios.
