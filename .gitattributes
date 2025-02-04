@@ -1,1 +1,1 @@
-git add .gitattributes
+git commit -m "Corrigir linguagem de arquivos .m para MATLAB"
